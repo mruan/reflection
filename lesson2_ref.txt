@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
      Git creates meta data to monitor and track the status of files within this directory.
 
+How is staging area different from the working directory and the repository? What value do you think it offers?
+
+    Working directory -> staging area -> repository
