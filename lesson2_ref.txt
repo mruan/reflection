@@ -8,7 +8,7 @@ How is staging area different from the working directory and the repository? Wha
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-    When make a logical change, test, and add it to stage area then commit
+    When make a logical change, test, and add it to stage area then commit. You have the freedom to chose what to commit in stage area, which is convenient when you have a couple of changes done in the working directory but you only want some of them committed while continue working on the rest.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
