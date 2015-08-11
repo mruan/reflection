@@ -18,3 +18,13 @@ How do the diagrams help you visualize the branch structure?
 
     The arrows help trace the history of each branch and indicate the reachability of the nodes
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    One branch is merged into another. We use the diagram to show the parent of each node
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+     
+     Pros: 1. saves a lot of effort than going through line by line
+     Cons: 1. It can get confused and do the wrong thing
+ 
+
